@@ -1,0 +1,13 @@
+E:\Solcast\Source\SolcastWebApi\obj\Debug\netcoreapp2.0\SolcastWebApi.csprojAssemblyReference.cache
+E:\Solcast\Source\SolcastWebApi\obj\Debug\netcoreapp2.0\SolcastWebApi.AssemblyInfoInputs.cache
+E:\Solcast\Source\SolcastWebApi\obj\Debug\netcoreapp2.0\SolcastWebApi.AssemblyInfo.cs
+E:\Solcast\Source\SolcastWebApi\bin\Debug\netcoreapp2.0\appsettings.Development.json
+E:\Solcast\Source\SolcastWebApi\bin\Debug\netcoreapp2.0\appsettings.json
+E:\Solcast\Source\SolcastWebApi\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+E:\Solcast\Source\SolcastWebApi\bin\Debug\netcoreapp2.0\SolcastWebApi.deps.json
+E:\Solcast\Source\SolcastWebApi\bin\Debug\netcoreapp2.0\SolcastWebApi.runtimeconfig.json
+E:\Solcast\Source\SolcastWebApi\bin\Debug\netcoreapp2.0\SolcastWebApi.runtimeconfig.dev.json
+E:\Solcast\Source\SolcastWebApi\bin\Debug\netcoreapp2.0\SolcastWebApi.dll
+E:\Solcast\Source\SolcastWebApi\bin\Debug\netcoreapp2.0\SolcastWebApi.pdb
+E:\Solcast\Source\SolcastWebApi\obj\Debug\netcoreapp2.0\SolcastWebApi.dll
+E:\Solcast\Source\SolcastWebApi\obj\Debug\netcoreapp2.0\SolcastWebApi.pdb
